@@ -34,7 +34,7 @@ We provide trained checkpoints
 ### Installation
 Create and activate a conda environment:
 ```
-conda create -n vipt python=3.7
+conda create -n dptracker python=3.7
 conda activate dptracker
 ```
 Install the required packages:
