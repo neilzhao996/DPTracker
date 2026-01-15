@@ -45,7 +45,7 @@ bash install_dptracker.sh
 ### Data Preparation
 Put the training datasets in ./data/. It should look like:
 ```
-$<PATH_of_ViPT>
+$<PATH_of_DPTracker>
 -- data
     -- DepthTrackTraining
         |-- adapter02_indoor
