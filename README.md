@@ -2,6 +2,22 @@
 
 DPTracker: DYNAMIC PROMPTER FOR RGB-D Tracking
 
+## Architecture & Module Details
+### Overall Architecture
+<div align="center">
+  <img src="figures/DPTracker.pdf" width="700" alt="Overall Architecture of DPTracker">
+</div>
+
+### Core Modules
+#### Dynamic Prompter (DP)
+<div align="center">
+  <img src="figures/DP.pdf" width="600" alt="Diagram of Dynamic Prompter Module">
+</div>
+
+#### Modality Effectiveness Predictor (MEP)
+<div align="center">
+  <img src="figures/MEP.pdf" width="600" alt="Diagram of Modality Validity Predictor Module">
+</div>
 
 
 ## Trained Checkpoints
